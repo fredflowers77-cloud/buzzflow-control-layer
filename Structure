@@ -1,0 +1,12 @@
+buzzflow-control-layer/
+├── README.md
+├── docs/
+│   ├── alternatives.md
+│   ├── architecture.md
+│   └── execution-flow.md
+├── scripts/
+│   └── repo-intel.js
+├── api/
+│   └── server.js
+├── .github/workflows/
+│   └── buzzflow.yml
